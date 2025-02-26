@@ -1,3 +1,4 @@
+// pastlist
 import NewPost from './NewPost';
 import Post from './Post';
 import classes from './PostList.module.css';

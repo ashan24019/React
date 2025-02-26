@@ -1,3 +1,4 @@
+// new post
 import classes from './NewPost.module.css';
 
 function NewPost() {
